@@ -1,6 +1,6 @@
 {
   "name": "@suncel/ui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Library of Suncel Blocks",
   "main": "dist/index.js",
   "module": "dist/esm/index.js",
