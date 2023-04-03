@@ -252,6 +252,7 @@ Team.suncel = {
           },
           {
             type: "key",
+            slug: "key",
             displayInSettings: false,
           },
         ],
